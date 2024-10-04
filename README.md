@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrancoWong06
+- 👋 Hi, I’m @Franco
 - 👀 I’m interested in Html/css/javascript
 - 🌱 I’m currently learning Html&css
 
